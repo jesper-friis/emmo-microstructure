@@ -27,8 +27,8 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_1a93b88c_b195_41b7_a848_e5ee9aef1203 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_1a93b88c_b195_41b7_a848_e5ee9aef1203">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
-        <rdfs:label xml:lang="en">dislocation density</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3"/>
+        <rdfs:label xml:lang="en">DislocationDensity</rdfs:label>
     </owl:Class>
     
 
@@ -37,7 +37,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_1fb11dd6_ebf0_4a5d_a093_b25e9e91ff7e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_5f8a1431_27e1_4879_92b1_13c7698641d9"/>
-        <rdfs:label xml:lang="en">grain boundary dislocation</rdfs:label>
+        <rdfs:label xml:lang="en">GrainBoundaryDislocation</rdfs:label>
     </owl:Class>
     
 
@@ -46,7 +46,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_2870ec8e_8c4f_4d64_a3db_9365d554a3e5">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_834d570d_dc0a_4347_b805_51250699d04d"/>
-        <rdfs:label xml:lang="en">precipitate</rdfs:label>
+        <rdfs:label xml:lang="en">Precipitate</rdfs:label>
     </owl:Class>
     
 
@@ -55,7 +55,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_30c7589f_a6da_4240_9157_caf0b69eaf82">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_b62f1bdb_a937_410e_aa59_608ca27e56a1"/>
-        <rdfs:label xml:lang="en">primary particle</rdfs:label>
+        <rdfs:label xml:lang="en">PrimaryParticle</rdfs:label>
     </owl:Class>
     
 
@@ -64,7 +64,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_3eb52322_c923_4970_a99b_8dc168d249f8">
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_a2b006f2_bbfd_4dba_bcaa_3fca20cd6be1"/>
-        <rdfs:label xml:lang="en">subgrain</rdfs:label>
+        <rdfs:label xml:lang="en">Subgrain</rdfs:label>
     </owl:Class>
     
 
@@ -73,7 +73,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_3ed199da_d1a1_4f37_92a8_7ce7ff75c210">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_46e03560_edf3_4969_bedb_eda94a23cdef"/>
-        <rdfs:label xml:lang="en">nominal composition</rdfs:label>
+        <rdfs:label xml:lang="en">NominalComposition</rdfs:label>
     </owl:Class>
     
 
@@ -81,8 +81,8 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_46e03560_edf3_4969_bedb_eda94a23cdef -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_46e03560_edf3_4969_bedb_eda94a23cdef">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
-        <rdfs:label xml:lang="en">composition</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#emmo-properties:EMMO_fdadf52c_5c39_40bc_95d9_5b7807f06e19"/>
+        <rdfs:label xml:lang="en">Composition</rdfs:label>
     </owl:Class>
     
 
@@ -90,9 +90,9 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_569f75d0_5d21_4a64_b3e5_6f3bfea094f7 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_569f75d0_5d21_4a64_b3e5_6f3bfea094f7">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3"/>
         <rdfs:comment>The misorientation distribution function (MDF) describes the misorientation between grains (and subgrains) in a microstructure.</rdfs:comment>
-        <rdfs:label xml:lang="en">misorientation distribution function</rdfs:label>
+        <rdfs:label xml:lang="en">MisorientationDistributionFunction</rdfs:label>
     </owl:Class>
     
 
@@ -101,7 +101,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_5f8a1431_27e1_4879_92b1_13c7698641d9">
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_174cf221_9d16_427c_abea_e217a948969b"/>
-        <rdfs:label xml:lang="en">dislocation</rdfs:label>
+        <rdfs:label xml:lang="en">Dislocation</rdfs:label>
     </owl:Class>
     
 
@@ -110,7 +110,13 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_6223edea_63c9_4e6a_84e0_4bf691d6f5ca">
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_a2b006f2_bbfd_4dba_bcaa_3fca20cd6be1"/>
-        <rdfs:label xml:lang="en">alloy</rdfs:label>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://emmo.info/domains/emmo-properties.owl#EMMO_e1097637_70d2_4895_973f_2396f04fa204"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_46e03560_edf3_4969_bedb_eda94a23cdef"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Alloy</rdfs:label>
     </owl:Class>
     
 
@@ -118,8 +124,8 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_6b1ad698_70fd_43c8_9c09_33b872e524e5 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_6b1ad698_70fd_43c8_9c09_33b872e524e5">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
-        <rdfs:label xml:lang="en">yield strength</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3"/>
+        <rdfs:label xml:lang="en">YieldStrength</rdfs:label>
     </owl:Class>
     
 
@@ -129,7 +135,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_70c969c5_71da_4331_b897_999c95a87d30">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_cdbd9b35_e5ad_4a38_8120_913106854b06"/>
         <emmo-annotations:EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84>Average volume of a given type of particles.</emmo-annotations:EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84>
-        <rdfs:label xml:lang="en">mean particle size</rdfs:label>
+        <rdfs:label xml:lang="en">MeanParticleSize</rdfs:label>
     </owl:Class>
     
 
@@ -140,12 +146,18 @@
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_174cf221_9d16_427c_abea_e217a948969b"/>
         <rdfs:subClassOf>
             <owl:Restriction>
+                <owl:onProperty rdf:resource="http://emmo.info/domains/emmo-properties.owl#EMMO_e1097637_70d2_4895_973f_2396f04fa204"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f87319a6_fecb_4884_bda8_7a5967479f0a"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
                 <owl:onProperty rdf:resource="http://emmo.info/base/emmo-mereotopology.owl#EMMO_4d6504f1_c470_4ce9_b941_bbbebc9ab05d"/>
                 <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:qualifiedCardinality>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_a5a64cc8_4e71_4bd0_baf2_c4d17224c570"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">grain boundary</rdfs:label>
+        <rdfs:label xml:lang="en">GrainBoundary</rdfs:label>
     </owl:Class>
     
 
@@ -173,7 +185,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_e66958e9_24d8_4599_8f51_3165682d0b87"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">microstructure</rdfs:label>
+        <rdfs:label xml:lang="en">Microstructure</rdfs:label>
     </owl:Class>
     
 
@@ -182,7 +194,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_7511edeb_fd34_41c8_a63c_9c7c8317fe4a">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_5f8a1431_27e1_4879_92b1_13c7698641d9"/>
-        <rdfs:label xml:lang="en">geometrical neccesary dislocation</rdfs:label>
+        <rdfs:label xml:lang="en">GeometricalNeccesaryDislocation</rdfs:label>
     </owl:Class>
     
 
@@ -190,9 +202,9 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_8091bbcf_b1eb_4550_8733_109f459ed5c1 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_8091bbcf_b1eb_4550_8733_109f459ed5c1">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3"/>
         <rdfs:comment>The orientation distribution function (ODF) describes the angular distribution of grains (and subgrains) or an microstructure.</rdfs:comment>
-        <rdfs:label xml:lang="en">orientation distribution function</rdfs:label>
+        <rdfs:label xml:lang="en">OrientationDistributionFunction</rdfs:label>
     </owl:Class>
     
 
@@ -201,7 +213,19 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_834d570d_dc0a_4347_b805_51250699d04d">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f2501cdf_6add_4913_9340_521ce1297eec"/>
-        <rdfs:label xml:lang="en">metastable particle</rdfs:label>
+        <rdfs:label xml:lang="en">MetastableParticle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_953fbdef_b014_4dde_8758_3f0e7e9f5c3b -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_953fbdef_b014_4dde_8758_3f0e7e9f5c3b">
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-models.owl#EMMO_27c5d8c6_8af7_4d63_beb1_ec37cd8b3fa3"/>
+        <rdfs:comment>A partial differential equation that express conservation of a physical quantity Q in a continuum system.
+
+It describes how the change in time of the density of Q is related to the change in space of the flow density of Q.</rdfs:comment>
+        <rdfs:label xml:lang="en">ContinuityEquation</rdfs:label>
     </owl:Class>
     
 
@@ -218,7 +242,7 @@
         </rdfs:subClassOf>
         <rdfs:comment>Grains contacts each other at surfaces called grain boundaries.</rdfs:comment>
         <rdfs:isDefinedBy>Crystallite composing a solid metal.</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">grain</rdfs:label>
+        <rdfs:label xml:lang="en">Grain</rdfs:label>
     </owl:Class>
     
 
@@ -227,7 +251,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_a85d4c4a_f24c_4731_8d7e_5b8a80e20175">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_71b28aa6_83aa_4ca2_a65b_094c148f21a0"/>
-        <rdfs:label xml:lang="en">low angle grain boundry</rdfs:label>
+        <rdfs:label xml:lang="en">LowAngleGrainBoundry</rdfs:label>
     </owl:Class>
     
 
@@ -244,7 +268,7 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:comment>The contact region (line) between three grains.</rdfs:comment>
-        <rdfs:label xml:lang="en">triple line</rdfs:label>
+        <rdfs:label xml:lang="en">TripleLine</rdfs:label>
     </owl:Class>
     
 
@@ -259,7 +283,7 @@
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_df90ff24_675a_41c7_801e_03df55c7aaf1"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">polycrystal</rdfs:label>
+        <rdfs:label xml:lang="en">Polycrystal</rdfs:label>
     </owl:Class>
     
 
@@ -268,7 +292,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_b62f1bdb_a937_410e_aa59_608ca27e56a1">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f2501cdf_6add_4913_9340_521ce1297eec"/>
-        <rdfs:label xml:lang="en">stable particle</rdfs:label>
+        <rdfs:label xml:lang="en">StableParticle</rdfs:label>
     </owl:Class>
     
 
@@ -278,7 +302,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_ca41034e_060f_49c8_8c4b_21e7d6a9d81f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_cdbd9b35_e5ad_4a38_8120_913106854b06"/>
         <emmo-annotations:EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84>The size distribution of a given type (or types) of particles.</emmo-annotations:EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84>
-        <rdfs:label xml:lang="en">particle size distribution</rdfs:label>
+        <rdfs:label xml:lang="en">ParticleSizeDistribution</rdfs:label>
     </owl:Class>
     
 
@@ -286,9 +310,9 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_cdbd9b35_e5ad_4a38_8120_913106854b06 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_cdbd9b35_e5ad_4a38_8120_913106854b06">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3"/>
         <rdfs:comment>Particle size is typically a quite fuzzily defined. Often people refer to the radius or a sphere with the same volume of the particle. To simplify, we here refer to the particle volume directly.</rdfs:comment>
-        <rdfs:label xml:lang="en">particle size</rdfs:label>
+        <rdfs:label xml:lang="en">ParticleSize</rdfs:label>
     </owl:Class>
     
 
@@ -297,7 +321,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_df90ff24_675a_41c7_801e_03df55c7aaf1">
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_a2b006f2_bbfd_4dba_bcaa_3fca20cd6be1"/>
-        <rdfs:label xml:lang="en">crystal</rdfs:label>
+        <rdfs:label xml:lang="en">Crystal</rdfs:label>
     </owl:Class>
     
 
@@ -306,7 +330,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_e1488fce_2c05_4f91_a5cc_94571961bbb1">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_5f8a1431_27e1_4879_92b1_13c7698641d9"/>
-        <rdfs:label xml:lang="en">partial dislocation</rdfs:label>
+        <rdfs:label xml:lang="en">PartialDislocation</rdfs:label>
     </owl:Class>
     
 
@@ -315,7 +339,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_e513a9fa_ac30_47eb_ba67_bb0487663dd5">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_71b28aa6_83aa_4ca2_a65b_094c148f21a0"/>
-        <rdfs:label xml:lang="en">high angle grain boundary</rdfs:label>
+        <rdfs:label xml:lang="en">HighAngleGrainBoundary</rdfs:label>
     </owl:Class>
     
 
@@ -324,7 +348,8 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_e66958e9_24d8_4599_8f51_3165682d0b87">
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_a2b006f2_bbfd_4dba_bcaa_3fca20cd6be1"/>
-        <rdfs:label xml:lang="en">matrix</rdfs:label>
+        <rdfs:comment>Also known as solid solution in metallic alloys.</rdfs:comment>
+        <rdfs:label xml:lang="en">Matrix</rdfs:label>
     </owl:Class>
     
 
@@ -341,7 +366,7 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:comment>A region (point) of a microstructure that is in contact with 4 grains.</rdfs:comment>
-        <rdfs:label xml:lang="en">quadriple point</rdfs:label>
+        <rdfs:label xml:lang="en">QuadriplePoint</rdfs:label>
     </owl:Class>
     
 
@@ -350,7 +375,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f039fbff_05ab_4a5f_a390_2d2188dad1fd">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_5f8a1431_27e1_4879_92b1_13c7698641d9"/>
-        <rdfs:label xml:lang="en">intrinsic dislocation</rdfs:label>
+        <rdfs:label xml:lang="en">IntrinsicDislocation</rdfs:label>
     </owl:Class>
     
 
@@ -359,7 +384,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f2501cdf_6add_4913_9340_521ce1297eec">
         <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-material.owl#EMMO_a2b006f2_bbfd_4dba_bcaa_3fca20cd6be1"/>
-        <rdfs:label xml:lang="en">particle</rdfs:label>
+        <rdfs:label xml:lang="en">Particle</rdfs:label>
     </owl:Class>
     
 
@@ -367,9 +392,9 @@
     <!-- http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f87319a6_fecb_4884_bda8_7a5967479f0a -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/jesperf/ontologies/2019/11/untitled-ontology-9#EMMO_f87319a6_fecb_4884_bda8_7a5967479f0a">
-        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-physical-properties.owl#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"/>
+        <rdfs:subClassOf rdf:resource="http://emmo.info/domains/emmo-units.owl#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3"/>
         <rdfs:comment>The angle between two grains (or subgrains)</rdfs:comment>
-        <rdfs:label xml:lang="en">misorientation_angle</rdfs:label>
+        <rdfs:label xml:lang="en">MisorientationAngle</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
