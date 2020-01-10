@@ -46,4 +46,4 @@ Obtaining emmo-microstructure
 -----------------------------
 Clone it from github with
 
-    git clone --recurse-submodules --shallow-submodules git@github.com:jesper-friis/emmo-microstructure.git
+    git clone --recurse-submodules --shallow-submodules https://git@github.com/jesper-friis/emmo-microstructure.git
