@@ -26,20 +26,21 @@ be possible describe quantities at different statistical levels, like
 mean size, normalised size distribution (mean + standard deviation)
 and full size distribution.
 
+There should be a common way to connect a state to external
+conditions, like temperature, volume/shape and pressure (essential for
+describing a process).
+
 
 Open questions
 --------------
-Should processes that changes the microstructure, like
-  - casting (solidification)
-  - homogenisation
-  - extrusion/rolling
-  - deformation (forming)
-  - aging
+* Should industrial processes that changes the microstructure, like
+    - casting (solidification)
+    - homogenisation
+    - extrusion/rolling
+    - forming (deformation)
+    - aging/heat treatment
 
-be included in this, or a separate ontology?  The processes connects
-closely to evolution models.
-
-
+  be included in this, or in separate sub-ontologies?
 
 
 Obtaining emmo-microstructure
