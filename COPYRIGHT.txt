@@ -1,0 +1,4 @@
+Copyright (c) SINTEF (2020)
+
+Released under the Creative Commons Attribution 4.0 International
+Public License (CC-BY 4.0)
